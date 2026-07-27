@@ -116,13 +116,13 @@ const ResearchInternshipPage = () => {
       <div className="pointer-events-none absolute right-0 top-[700px] h-[400px] w-[400px] rounded-full bg-blue-600/10 blur-[160px]" />
 
       <section className="relative z-10 mx-auto max-w-6xl">
-        <Link
-          href="/#experience"
-          className="mb-10 inline-flex items-center gap-2 text-sm text-white/60 transition hover:text-purple-400"
-        >
-          <FaArrowLeft />
-          Back to experience
-        </Link>
+        <a
+            href="/#projects"
+            className="inline-flex items-center gap-3 rounded-full bg-purple-500 px-6 py-3 font-semibold text-white transition duration-300 hover:-translate-y-1 hover:bg-purple-600"
+          >
+            Back to Projects
+            <FaLocationArrow />
+          </a>
 
         <div className="mb-14">
           <p className="mb-4 text-sm font-semibold uppercase tracking-[0.25em] text-purple-400">
