@@ -117,12 +117,11 @@ const ResearchInternshipPage = () => {
 
       <section className="relative z-10 mx-auto max-w-6xl">
         <a
-            href="/RecentProjects"
+            href="/#projects"
             className="inline-flex items-center gap-3 rounded-full bg-purple-500 px-6 py-3 font-semibold text-white transition duration-300 hover:-translate-y-1 hover:bg-purple-600"
           >
             Back to Projects
-            <FaLocationArrow />
-          </a>
+            <FaLocationArrow />>
 
         <div className="mb-14">
           <p className="mb-4 text-sm font-semibold uppercase tracking-[0.25em] text-purple-400">
