@@ -137,7 +137,7 @@ export default function WatermelonRipenessPage() {
 
               <div className="mt-8 flex flex-wrap gap-4">
                 <Link
-                  href="https://github.com/your-username/your-repository"
+                  href="https://github.com/rahikajannatroza/RipenessDetection"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 rounded-lg bg-purple-500 px-6 py-3 text-sm font-semibold transition hover:bg-purple-600"
