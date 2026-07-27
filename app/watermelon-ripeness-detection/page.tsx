@@ -108,7 +108,7 @@ export default function WatermelonRipenessPage() {
 
         <div className="relative mx-auto max-w-7xl">
           <Link
-            href="/projects"
+            href="/RecentProjects"
             className="mb-10 inline-flex items-center gap-2 text-sm text-white/60 transition hover:text-purple-400"
           >
             <FaArrowLeft />
