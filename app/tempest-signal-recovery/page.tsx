@@ -122,7 +122,7 @@ const ResearchInternshipPage = () => {
         >
             Back to Projects
             <FaLocationArrow />
-        /a>
+        </a>
 
         <div className="mb-14">
           <p className="mb-4 text-sm font-semibold uppercase tracking-[0.25em] text-purple-400">
