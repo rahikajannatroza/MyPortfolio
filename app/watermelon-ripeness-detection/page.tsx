@@ -108,13 +108,13 @@ export default function WatermelonRipenessPage() {
         <div className="absolute left-1/2 top-0 h-[500px] w-[500px] -translate-x-1/2 rounded-full bg-purple-600/20 blur-[150px]" />
 
         <div className="relative mx-auto max-w-7xl">
-          <Link
-            href="/RecentProjects"
-            className="mb-10 inline-flex items-center gap-2 text-sm text-white/60 transition hover:text-purple-400"
+          <a
+            href="/#projects"
+            className="inline-flex items-center gap-3 rounded-full bg-purple-500 px-6 py-3 font-semibold text-white transition duration-300 hover:-translate-y-1 hover:bg-purple-600"
           >
-            <FaArrowLeft />
-            Back to projects
-          </Link>
+            Back to Projects
+            <FaLocationArrow />
+          </a>
 
           <div className="grid items-center gap-12 lg:grid-cols-[1.1fr_0.9fr]">
             <div>
