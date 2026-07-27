@@ -10,7 +10,7 @@ import {
   FaWaveSquare,
 } from "react-icons/fa";
 import { FaLocationDot } from "react-icons/fa6";
-
+import { FaLocationArrow } from "react-icons/fa6";
 const researchAreas = [
   {
     title: "Electromagnetic Emanation Analysis",
@@ -117,7 +117,7 @@ const ResearchInternshipPage = () => {
 
       <section className="relative z-10 mx-auto max-w-6xl">
         <a
-            href="/#projects"
+            href="/RecentProjects"
             className="inline-flex items-center gap-3 rounded-full bg-purple-500 px-6 py-3 font-semibold text-white transition duration-300 hover:-translate-y-1 hover:bg-purple-600"
           >
             Back to Projects
