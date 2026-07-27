@@ -12,6 +12,7 @@ import {
   FaWaveSquare,
 } from "react-icons/fa";
 import { HiExternalLink } from "react-icons/hi";
+import { FaLocationArrow } from "react-icons/fa6";
 
 const technologies = [
   "Python",
