@@ -134,6 +134,7 @@ export default function WatermelonRipenessPage() {
                 combines computer vision, acoustic signal processing, deep
                 learning, and fusion-based classification.
               </p>
+            </div>
 
               
 
