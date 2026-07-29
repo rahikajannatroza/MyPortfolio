@@ -135,18 +135,7 @@ export default function WatermelonRipenessPage() {
                 learning, and fusion-based classification.
               </p>
 
-              <div className="mt-8 flex flex-wrap gap-4">
-                <Link
-                  href="https://github.com/rahikajannatroza/RipenessDetection"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-flex items-center gap-2 rounded-lg bg-purple-500 px-6 py-3 text-sm font-semibold transition hover:bg-purple-600"
-                >
-                  <FaGithub className="text-lg" />
-                  View source
-                </Link>
-              </div>
-            </div>
+              
 
             <div className="relative overflow-hidden rounded-3xl border border-white/10 bg-white/5 p-3 shadow-2xl shadow-purple-950/30">
               <div className="relative aspect-[2.75/1] w-full overflow-hidden rounded-2xl bg-[#080b25]">
